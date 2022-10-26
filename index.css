@@ -1,0 +1,10 @@
+.carousel-inner img{
+    height: 180px;
+    width: 180px;
+}
+#alugueis{
+    max-width:450px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+}
